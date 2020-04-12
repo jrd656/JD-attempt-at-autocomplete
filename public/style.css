@@ -4,3 +4,10 @@ p {
     width: 200px;
 
 }
+
+div {
+    background-color: navy;
+    height: 80px;
+    width: 200px;
+    color: grey;
+}
